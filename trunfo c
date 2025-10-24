@@ -1,2 +1,4 @@
 git clone https://github.com/rafaumeu/super-trunfo.git
-cd super-trunfo
+cd super-trunfo 
+
+gcc -o super_trunfo main.c
